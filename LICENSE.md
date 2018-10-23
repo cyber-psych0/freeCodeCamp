@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<abbr title="Berkeley Software Distribution">BSD-3-Clause</abbr> 
+
+</body>
+</html>
 BSD 3-Clause License
 
 Copyright (c) 2018, freeCodeCamp.
